@@ -4,5 +4,6 @@ set :bind, '0.0.0.0'
 set :port, 8080
 
 get '/' do
-  "Hello, Sinatra!Again"
+  "Hello, Sinatra!"
+  "Welcome test round2"
 end
